@@ -1,0 +1,12 @@
+D:\src\Framework\src\Framework.RestApi\bin\Debug\net6.0\Framework.RestApi.deps.json
+D:\src\Framework\src\Framework.RestApi\bin\Debug\net6.0\Framework.RestApi.dll
+D:\src\Framework\src\Framework.RestApi\bin\Debug\net6.0\Framework.RestApi.pdb
+D:\src\Framework\src\Framework.RestApi\obj\Debug\net6.0\Framework.RestApi.csproj.AssemblyReference.cache
+D:\src\Framework\src\Framework.RestApi\obj\Debug\net6.0\Framework.RestApi.GeneratedMSBuildEditorConfig.editorconfig
+D:\src\Framework\src\Framework.RestApi\obj\Debug\net6.0\Framework.RestApi.AssemblyInfoInputs.cache
+D:\src\Framework\src\Framework.RestApi\obj\Debug\net6.0\Framework.RestApi.AssemblyInfo.cs
+D:\src\Framework\src\Framework.RestApi\obj\Debug\net6.0\Framework.RestApi.csproj.CoreCompileInputs.cache
+D:\src\Framework\src\Framework.RestApi\obj\Debug\net6.0\Framework.RestApi.dll
+D:\src\Framework\src\Framework.RestApi\obj\Debug\net6.0\refint\Framework.RestApi.dll
+D:\src\Framework\src\Framework.RestApi\obj\Debug\net6.0\Framework.RestApi.pdb
+D:\src\Framework\src\Framework.RestApi\obj\Debug\net6.0\ref\Framework.RestApi.dll

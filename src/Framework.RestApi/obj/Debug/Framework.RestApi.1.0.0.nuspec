@@ -1,0 +1,18 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2012/06/nuspec.xsd">
+  <metadata>
+    <id>Framework.RestApi</id>
+    <version>1.0.0</version>
+    <authors>Framework.RestApi</authors>
+    <description>Package Description</description>
+    <dependencies>
+      <group targetFramework="net6.0">
+        <dependency id="Framework.Application" version="1.0.0" exclude="Build,Analyzers" />
+        <dependency id="Microsoft.AspNetCore.Mvc.Core" version="2.2.5" exclude="Build,Analyzers" />
+      </group>
+    </dependencies>
+  </metadata>
+  <files>
+    <file src="D:\src\Framework\src\Framework.RestApi\bin\Debug\net6.0\Framework.RestApi.dll" target="lib\net6.0\Framework.RestApi.dll" />
+  </files>
+</package>

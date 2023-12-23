@@ -1,0 +1,11 @@
+D:\src\Framework\src\Framework.Domain\bin\Debug\net6.0\Framework.Domain.deps.json
+D:\src\Framework\src\Framework.Domain\bin\Debug\net6.0\Framework.Domain.dll
+D:\src\Framework\src\Framework.Domain\bin\Debug\net6.0\Framework.Domain.pdb
+D:\src\Framework\src\Framework.Domain\obj\Debug\net6.0\Framework.Domain.GeneratedMSBuildEditorConfig.editorconfig
+D:\src\Framework\src\Framework.Domain\obj\Debug\net6.0\Framework.Domain.AssemblyInfoInputs.cache
+D:\src\Framework\src\Framework.Domain\obj\Debug\net6.0\Framework.Domain.AssemblyInfo.cs
+D:\src\Framework\src\Framework.Domain\obj\Debug\net6.0\Framework.Domain.csproj.CoreCompileInputs.cache
+D:\src\Framework\src\Framework.Domain\obj\Debug\net6.0\Framework.Domain.dll
+D:\src\Framework\src\Framework.Domain\obj\Debug\net6.0\refint\Framework.Domain.dll
+D:\src\Framework\src\Framework.Domain\obj\Debug\net6.0\Framework.Domain.pdb
+D:\src\Framework\src\Framework.Domain\obj\Debug\net6.0\ref\Framework.Domain.dll

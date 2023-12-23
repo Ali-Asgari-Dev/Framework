@@ -1,0 +1,12 @@
+D:\src\Framework\src\Framework.Application\bin\Debug\net6.0\Framework.Application.deps.json
+D:\src\Framework\src\Framework.Application\bin\Debug\net6.0\Framework.Application.dll
+D:\src\Framework\src\Framework.Application\bin\Debug\net6.0\Framework.Application.pdb
+D:\src\Framework\src\Framework.Application\obj\Debug\net6.0\Framework.Application.csproj.AssemblyReference.cache
+D:\src\Framework\src\Framework.Application\obj\Debug\net6.0\Framework.Application.GeneratedMSBuildEditorConfig.editorconfig
+D:\src\Framework\src\Framework.Application\obj\Debug\net6.0\Framework.Application.AssemblyInfoInputs.cache
+D:\src\Framework\src\Framework.Application\obj\Debug\net6.0\Framework.Application.AssemblyInfo.cs
+D:\src\Framework\src\Framework.Application\obj\Debug\net6.0\Framework.Application.csproj.CoreCompileInputs.cache
+D:\src\Framework\src\Framework.Application\obj\Debug\net6.0\Framework.Application.dll
+D:\src\Framework\src\Framework.Application\obj\Debug\net6.0\refint\Framework.Application.dll
+D:\src\Framework\src\Framework.Application\obj\Debug\net6.0\Framework.Application.pdb
+D:\src\Framework\src\Framework.Application\obj\Debug\net6.0\ref\Framework.Application.dll

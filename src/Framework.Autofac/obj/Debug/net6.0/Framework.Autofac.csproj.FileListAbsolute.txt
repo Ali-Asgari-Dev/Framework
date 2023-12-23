@@ -1,0 +1,12 @@
+D:\src\Framework\src\Framework.Autofac\bin\Debug\net6.0\Framework.Autofac.deps.json
+D:\src\Framework\src\Framework.Autofac\bin\Debug\net6.0\Framework.Autofac.dll
+D:\src\Framework\src\Framework.Autofac\bin\Debug\net6.0\Framework.Autofac.pdb
+D:\src\Framework\src\Framework.Autofac\obj\Debug\net6.0\Framework.Autofac.csproj.AssemblyReference.cache
+D:\src\Framework\src\Framework.Autofac\obj\Debug\net6.0\Framework.Autofac.GeneratedMSBuildEditorConfig.editorconfig
+D:\src\Framework\src\Framework.Autofac\obj\Debug\net6.0\Framework.Autofac.AssemblyInfoInputs.cache
+D:\src\Framework\src\Framework.Autofac\obj\Debug\net6.0\Framework.Autofac.AssemblyInfo.cs
+D:\src\Framework\src\Framework.Autofac\obj\Debug\net6.0\Framework.Autofac.csproj.CoreCompileInputs.cache
+D:\src\Framework\src\Framework.Autofac\obj\Debug\net6.0\Framework.Autofac.dll
+D:\src\Framework\src\Framework.Autofac\obj\Debug\net6.0\refint\Framework.Autofac.dll
+D:\src\Framework\src\Framework.Autofac\obj\Debug\net6.0\Framework.Autofac.pdb
+D:\src\Framework\src\Framework.Autofac\obj\Debug\net6.0\ref\Framework.Autofac.dll
