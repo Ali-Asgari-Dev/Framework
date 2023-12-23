@@ -6,7 +6,7 @@
   "compilationOptions": {},
   "targets": {
     ".NETCoreApp,Version=v6.0": {
-      "Framework.Domain/1.0.2": {
+      "Framework.Domain/1.0.4": {
         "runtime": {
           "Framework.Domain.dll": {}
         }
@@ -14,7 +14,7 @@
     }
   },
   "libraries": {
-    "Framework.Domain/1.0.2": {
+    "Framework.Domain/1.0.4": {
       "type": "project",
       "serviceable": false,
       "sha512": ""

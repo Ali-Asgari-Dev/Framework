@@ -1,12 +1,13 @@
 {
   "version": 2,
-  "dgSpecHash": "vCr2zID2Tj+58M1+9S+YfoIhv2HZNY3XaFx6Y+yA1v2j1VEB9ZqgoS9B0FTVIvb8rtw+SSFBn2WSqKpxH6CTlg==",
+  "dgSpecHash": "n0NCH8g4gCorFlIQi4kcyUqjNUn/qkmLiovq3u+FicwGUz4mdX0/DBYu7kqAvm19v/4M7FDpHRDIlBaFafe+bw==",
   "success": true,
   "projectFilePath": "D:\\Arman\\src\\Framework\\Framework\\src\\Framework.Autofac\\Framework.Autofac.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\aasga\\.nuget\\packages\\autofac\\7.1.0\\autofac.7.1.0.nupkg.sha512",
     "C:\\Users\\aasga\\.nuget\\packages\\autofac.extensions.dependencyinjection\\8.0.0\\autofac.extensions.dependencyinjection.8.0.0.nupkg.sha512",
     "C:\\Users\\aasga\\.nuget\\packages\\framework.application\\1.0.0\\framework.application.1.0.0.nupkg.sha512",
+    "C:\\Users\\aasga\\.nuget\\packages\\framework.domain\\1.0.3\\framework.domain.1.0.3.nupkg.sha512",
     "C:\\Users\\aasga\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\6.0.0\\microsoft.extensions.dependencyinjection.abstractions.6.0.0.nupkg.sha512",
     "C:\\Users\\aasga\\.nuget\\packages\\system.diagnostics.diagnosticsource\\4.7.1\\system.diagnostics.diagnosticsource.4.7.1.nupkg.sha512"
   ],

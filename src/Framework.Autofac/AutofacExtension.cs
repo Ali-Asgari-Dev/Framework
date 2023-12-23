@@ -1,6 +1,7 @@
 using System.Reflection;
 using Autofac;
 using Framework.Application;
+using Framework.Domain;
 
 namespace Framework.Autofac;
 
@@ -14,6 +15,7 @@ public static class AutofacExtension
 
     public static void RegisterBus(this ContainerBuilder builder)
     {
+        // builder.RegisterType<AutofacEventBus>().As<IEventBus>().InstancePerLifetimeScope();
         builder.RegisterType<AutofacCommandBus>().As<ICommandBus>().InstancePerLifetimeScope();
         builder.RegisterType<AutofacQueryBus>().As<IQueryBus>().InstancePerLifetimeScope();
     }

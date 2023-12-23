@@ -44,6 +44,15 @@
           "lib/net6.0/Framework.Application.dll": {}
         }
       },
+      "Framework.Domain/1.0.3": {
+        "type": "package",
+        "compile": {
+          "lib/net6.0/Framework.Domain.dll": {}
+        },
+        "runtime": {
+          "lib/net6.0/Framework.Domain.dll": {}
+        }
+      },
       "Microsoft.Extensions.DependencyInjection.Abstractions/6.0.0": {
         "type": "package",
         "compile": {
@@ -128,6 +137,17 @@
         "lib/net6.0/Framework.Application.dll"
       ]
     },
+    "Framework.Domain/1.0.3": {
+      "sha512": "wjijfopJAHYRuq0fSGf9LK5Og/qiFORIfcaq3f2OBcBSGj8UdMmRZ0RTHgR7C8ZCeV1x4S0TPsCks6n0KY8NJA==",
+      "type": "package",
+      "path": "framework.domain/1.0.3",
+      "files": [
+        ".nupkg.metadata",
+        "framework.domain.1.0.3.nupkg.sha512",
+        "framework.domain.nuspec",
+        "lib/net6.0/Framework.Domain.dll"
+      ]
+    },
     "Microsoft.Extensions.DependencyInjection.Abstractions/6.0.0": {
       "sha512": "xlzi2IYREJH3/m6+lUrQlujzX8wDitm4QGnUu6kUXTQAWPuZY8i+ticFJbzfqaetLA6KR/rO6Ew/HuYD+bxifg==",
       "type": "package",
@@ -184,7 +204,8 @@
     "net6.0": [
       "Autofac >= 7.1.0",
       "Autofac.Extensions.DependencyInjection >= 8.0.0",
-      "Framework.Application >= 1.0.0"
+      "Framework.Application >= 1.0.0",
+      "Framework.Domain >= 1.0.3"
     ]
   },
   "packageFolders": {
@@ -236,6 +257,10 @@
           "Framework.Application": {
             "target": "Package",
             "version": "[1.0.0, )"
+          },
+          "Framework.Domain": {
+            "target": "Package",
+            "version": "[1.0.3, )"
           }
         },
         "imports": [

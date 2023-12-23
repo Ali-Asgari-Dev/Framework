@@ -50,6 +50,10 @@
             "Framework.Application": {
               "target": "Package",
               "version": "[1.0.0, )"
+            },
+            "Framework.Domain": {
+              "target": "Package",
+              "version": "[1.0.3, )"
             }
           },
           "imports": [

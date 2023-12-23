@@ -6,11 +6,12 @@
   "compilationOptions": {},
   "targets": {
     ".NETCoreApp,Version=v6.0": {
-      "Framework.Autofac/1.0.0": {
+      "Framework.Autofac/1.0.3": {
         "dependencies": {
           "Autofac": "7.1.0",
           "Autofac.Extensions.DependencyInjection": "8.0.0",
-          "Framework.Application": "1.0.0"
+          "Framework.Application": "1.0.0",
+          "Framework.Domain": "1.0.3"
         },
         "runtime": {
           "Framework.Autofac.dll": {}
@@ -47,6 +48,14 @@
           }
         }
       },
+      "Framework.Domain/1.0.3": {
+        "runtime": {
+          "lib/net6.0/Framework.Domain.dll": {
+            "assemblyVersion": "1.0.3.0",
+            "fileVersion": "1.0.3.0"
+          }
+        }
+      },
       "Microsoft.Extensions.DependencyInjection.Abstractions/6.0.0": {
         "runtime": {
           "lib/net6.0/Microsoft.Extensions.DependencyInjection.Abstractions.dll": {
@@ -59,7 +68,7 @@
     }
   },
   "libraries": {
-    "Framework.Autofac/1.0.0": {
+    "Framework.Autofac/1.0.3": {
       "type": "project",
       "serviceable": false,
       "sha512": ""
@@ -84,6 +93,13 @@
       "sha512": "sha512-oiJA/TLc5f5xWxp3HzMxW8ltIh0LJsZJvFijtgGjyOmz2vGBEUOHIFoDyTLfI+YC/hZ0UmMDRmS/1DxOJZ1rzw==",
       "path": "framework.application/1.0.0",
       "hashPath": "framework.application.1.0.0.nupkg.sha512"
+    },
+    "Framework.Domain/1.0.3": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-wjijfopJAHYRuq0fSGf9LK5Og/qiFORIfcaq3f2OBcBSGj8UdMmRZ0RTHgR7C8ZCeV1x4S0TPsCks6n0KY8NJA==",
+      "path": "framework.domain/1.0.3",
+      "hashPath": "framework.domain.1.0.3.nupkg.sha512"
     },
     "Microsoft.Extensions.DependencyInjection.Abstractions/6.0.0": {
       "type": "package",
